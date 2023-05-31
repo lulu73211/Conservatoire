@@ -1,0 +1,223 @@
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.Properties.Resources.resources
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.VuePrincipale.resources
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.Vues.VueProfesseur.resources
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\ConservatoireMVC.exe.config
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\ConservatoireMVC.pdb
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\Google.Protobuf.dll
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\MySql.Data.dll
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\System.Buffers.dll
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\System.Memory.dll
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\Google.Protobuf.pdb
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\Google.Protobuf.xml
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\MySql.Data.xml
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\System.Buffers.xml
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\System.Memory.xml
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\Desktop\ConservatoireMVC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.csproj.CopyComplete
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.pdb
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.Vues.FormAjouterProfesseur1.resources
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur1.resources
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur2.resources
+C:\Users\lucas\Desktop\ConservatoireMVC\obj\Debug\ConservatoireMVC.Vues.FormSupprimerProfesseur1.resources
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\ConservatoireMVC.exe.config
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\ConservatoireMVC.pdb
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\Google.Protobuf.dll
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\MySql.Data.dll
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\System.Buffers.dll
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\System.Memory.dll
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\Google.Protobuf.pdb
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\Google.Protobuf.xml
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\MySql.Data.xml
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\System.Buffers.xml
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\System.Memory.xml
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.Properties.Resources.resources
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.VuePrincipale.resources
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.Vues.FormAjouterProfesseur1.resources
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur1.resources
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur2.resources
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.Vues.FormSupprimerProfesseur1.resources
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.Vues.VueProfesseur.resources
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.csproj.CopyComplete
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\ConservatoireMVC 0501\obj\Debug\ConservatoireMVC.pdb
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\ConservatoireMVC.exe.config
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\ConservatoireMVC.pdb
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\Google.Protobuf.dll
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\MySql.Data.dll
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\System.Buffers.dll
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\System.Memory.dll
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\Google.Protobuf.pdb
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\Google.Protobuf.xml
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\MySql.Data.xml
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\System.Buffers.xml
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\System.Memory.xml
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\Desktop\Conservatoire MVC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Properties.Resources.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.VuePrincipale.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.FormAjouterProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur2.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.FormSupprimerProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.csproj.CopyComplete
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.pdb
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.PageDeConnexion.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.VueCours.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\ConservatoireMVC.exe.config
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\ConservatoireMVC.pdb
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\Google.Protobuf.dll
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\MySql.Data.dll
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\System.Buffers.dll
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\System.Memory.dll
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\Google.Protobuf.pdb
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\Google.Protobuf.xml
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\MySql.Data.xml
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\System.Buffers.xml
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\System.Memory.xml
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.Properties.Resources.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.VuePrincipale.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.Vues.FormAjouterProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur2.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.Vues.FormSupprimerProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.Vues.PageDeConnexion.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.Vues.VueCours.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.Vues.VueEleve.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.Vues.VueProfesseur.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.csproj.CopyComplete
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0521\obj\Debug\ConservatoireMVC.pdb
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.Properties.Resources.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.VuePrincipale.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.Vues.FormAjouterEleve1.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur2.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.Vues.FormSupprimerProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.Vues.PageDeConnexion.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.Vues.VueCours.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.Vues.VueEleve.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.Vues.VueProfesseur.resources
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\Conservatoire copie MVC\Conservatoire MVC 0526\obj\Debug\ConservatoireMVC.pdb
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.EleveView.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.Eleve.FormAjouterEleve1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.FormModifierEleve1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.Eleve.FormModifierEleve2.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.Eleve.FormSupprimerEleve1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC\obj\Debug\ConservatoireMVC.Vues.Cotisation.FormCotisation1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\ConservatoireMVC.exe.config
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\ConservatoireMVC.pdb
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\Google.Protobuf.dll
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\MySql.Data.dll
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\System.Buffers.dll
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\System.Memory.dll
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\Google.Protobuf.pdb
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\Google.Protobuf.xml
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\MySql.Data.xml
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\System.Buffers.xml
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\System.Memory.xml
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Properties.Resources.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.Cotisation.FormCotisation1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.VuePrincipale.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.Eleve.FormAjouterEleve1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.FormModifierEleve1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.Eleve.FormModifierEleve2.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.Eleve.FormSupprimerEleve1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.FormAjouterProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.FormModifierProfesseur2.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.FormSupprimerProfesseur1.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.PageDeConnexion.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.VueCours.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.Vues.EleveView.resources
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.csproj.CopyComplete
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.exe
+C:\Users\lucas\Desktop\Conservatoire MVC Couleurs\obj\Debug\ConservatoireMVC.pdb
