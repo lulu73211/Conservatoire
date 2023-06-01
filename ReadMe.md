@@ -37,11 +37,9 @@ Instructions d'installation
 
 4 - Importer la base de données : Ouvrez votre navigateur web et allez à http://localhost/phpmyadmin/. Cliquez sur l'onglet "Import", puis choisissez le fichier SQL de la base de données que vous avez téléchargé et cliquez sur "Go" pour importer la base de données.
 
-5 - Lancer l'application via Visual Studio : Ouvrez Visual Studio et ouvrez le projet que vous avez téléchargé. Assurez-vous que toutes les dépendances sont installées. Si nécessaire, restaurez les packages NuGet.
+5 - Lancer l'application via l'executable "ConservatoireMVC.exe".
 
-6 - Configurer les informations de connexion à la base de données : Dans le fichier de configuration de votre projet (généralement appsettings.json), assurez-vous que la chaîne de connexion à la base de données correspond à votre configuration de MySQL.
-
-7 - Exécutez l'application : Vous pouvez maintenant exécuter l'application depuis Visual Studio. Si tout a été configuré correctement, l'application devrait se connecter à la base de données et fonctionner correctement.
+6 - Exécutez l'application : Vous pouvez maintenant exécuter l'application depuis l'executable "ConservatoireMVC.exe". Si tout a été configuré correctement, l'application devrait se connecter à la base de données et fonctionner correctement.
 
 Comment Contribuer
 
