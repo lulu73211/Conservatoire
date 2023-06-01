@@ -35,7 +35,7 @@ Instructions d'installation
 
 3 - Lancer XAMPP : Une fois que XAMPP est installé, lancez-le et démarrez le serveur MySQL.
 
-4 - Importer la base de données : Ouvrez votre navigateur web et allez à http://localhost/phpmyadmin/. Cliquez sur l'onglet "Import", puis choisissez le fichier SQL de la base de données que vous avez téléchargé et cliquez sur "Go" pour importer la base de données.
+4 - Importer la base de données : Ouvrez votre navigateur web et allez à http://localhost/phpmyadmin/. Cliquez sur l'onglet "Import", puis choisissez le fichier SQL "conservatoireld.sql" de la base de données que vous avez téléchargé et cliquez sur "Go" pour importer la base de données.
 
 5 - Lancer l'application via l'executable "ConservatoireMVC.exe".
 
